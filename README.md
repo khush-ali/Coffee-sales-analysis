@@ -9,3 +9,5 @@ Data Analysis of Coffee Sales using Python. Derived meaningful insights from sal
 - Americano With Milk is the most favoured coffee type.
 - May is the highest grossing month.
 - Latte followed by Americano With Milk generates highest revenue.
+# Files
+- [Open Notebook](Coffee_Sales.ipynb) : Jupyter Notebook with code and analysis
